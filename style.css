@@ -1,0 +1,161 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 1200px;
+  padding: 30px 50px;
+  margin: auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#table1 {
+  border: 1px solid red;
+  margin: 0px auto;
+}
+
+/* Subjects  */
+td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+
+#row-1 {
+  background-color: #053561;
+  color: white;
+}
+
+.block {
+  background: black;
+  color: white;
+}
+
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.subject:hover {
+  background: #065138;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+
+  transition: font-size 3s background 0.5s, color 0.5s;
+}
+
+img {
+  width: 60px;
+  margin: auto;
+  padding: 0px 35px;
+}
+
+#table2 {
+  margin: 40px auto;
+  padding-top: 10px;
+  width: 300px;
+  height: 50px;
+  border-radius: 40px;
+
+  background: #0c6c9d;
+  border: none;
+}
+
+#nothing {
+  border: none;
+}
+
+#find {
+  padding-bottom: 10px;
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  margin: auto;
+  border: none;
+}
+
+.nonez {
+  border: none;
+}
+
+#Table3 td {
+  padding: 5px;
+  margin: auto;
+  background-color: skyblue;
+  height: 1px;
+  border: 2px solid black;
+  width: 1100px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#tdblue {
+  color: blue;
+  border: 1px solid black;
+  font-size: 15px;
+}
+
+#tdpeach {
+  color: peachpuff;
+}
+
+#tdred {
+  color: red;
+}
+
+#tdbrown {
+  color: brown;
+}
+
+#light-brown {
+  color: #b5651d;
+}
+
+#tdorange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+.tdb {
+  border: solid black;
+}
+
+.times {
+  font-size: 8px solid black;
+}
+
+#title3 {
+  margin: auto;
+  font-size: 30px;
+  font-weight: 600;
+  word-spacing: 5px;
+  color: #0c6c9d;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#lunch {
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+}
+
+div {
+  background-color: skyblue;
+  text-align: center;
+  margin: 100px auto;
+  padding: 10px;
+  width: 1100px;
+}
+
+#Table3 {
+  border: 3px solid grey;
+  margin: 30px;
+  padding: 2.5px;
+  border-bottom: 3px solid black;
+  border-right: 3px solid black;
+}
